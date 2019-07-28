@@ -8,12 +8,12 @@ To understand the trend in the variation of weather with increasing distance fro
 
 ## Installation
 
-* Node js
+* Node.js
 * Python 3.7
 
 ## Additional Libraries and Packages
 
-* Node js
+* Node.js
   * request
 * Python
   * pandas
